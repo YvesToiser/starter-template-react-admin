@@ -4,6 +4,9 @@ body {
         "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    background-color: #f5f5ef;
+    padding: 10px 30px;
+    text-align: center;
 }
 
 code {
